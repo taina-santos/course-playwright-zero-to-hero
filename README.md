@@ -2,6 +2,5 @@
 
 Practice application for the "SDET with Playwright" class at https://www.bondaracademy.com
 
-This is modified and more lightweight version of original application to practice UI Automation with Playwright.
-
+This is modified and more lightweight version of original Ngx-Admin application.
 The original repo is here: https://github.com/akveo/ngx-admin
