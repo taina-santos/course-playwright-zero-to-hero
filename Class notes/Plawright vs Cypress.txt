@@ -1,0 +1,16 @@
+PW:
+
+- Playwright is faster
+- Support to JS/TS, Python, Java, C# (default is TS)
+- Free parallel execution
+- It can handle multiple labs
+- Better with iFrames, smooth experience
+-  It's comfortable transition from selenium, since the locators accesses are kinda similar
+
+Cypress:
+
+- Faster scripting, which means less code
+- Better to handle auto-wait mechanism, to wait elements load in the screen
+- Clear documentation
+- Better test runner than Playwright
+- Dashboard service, but it's paid

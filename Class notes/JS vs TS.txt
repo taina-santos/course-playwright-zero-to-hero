@@ -1,0 +1,15 @@
+Same sintax, but typescritpt prevent us to assign different type of values in the same variable
+
+You can also explicit assign the type of variable when declare
+var name:string = "your name"
+var age:number = 33
+
+Typescript also allows you to create a custom type
+type Person = {name: string, age: number, active: boolean}
+var firstPerson: Person = {
+  name: "tay",
+  age: 33,
+  active: true
+}
+
+Works with same idea of class/object from what we have in java
