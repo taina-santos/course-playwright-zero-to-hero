@@ -1,6 +1,6 @@
 ### Practice application
 
-Practice application for the "SDET with Playwright" class at https://www.bondaracademy.com
+Practice application for the course Playwright: Web Automation Testing From Zero to Hero on Udemy
 
 ### How to run it
 
